@@ -46,3 +46,6 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 9. Glen Lauwers 
 	- email: glenlauwers -- hotmail.com
 	- GitHub: https://github.com/GlenLauwers
+10. Joeri Mahieu
+	-email: joeri.mahieu -- gmail.com
+	-Github: https://github.com/JoeriMahieu
