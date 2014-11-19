@@ -57,5 +57,5 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 	- GitHub: https://github.com/mivixof
 
 11. Boran Eksen
-	-email: boran_eksen1 -- hotmail.com
-	-Github: https://github.com/Boran-Eksen
+	- email: boran_eksen1 -- hotmail.com
+	- Github: https://github.com/Boran-Eksen
