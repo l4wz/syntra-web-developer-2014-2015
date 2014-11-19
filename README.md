@@ -50,3 +50,6 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 10. Joeri Mahieu
 	- email: joeri.mahieu -- gmail.com
 	- Github: https://github.com/JoeriMahieu
+11. Laurens Van Ham
+	- email: vanhamlaurens -- gmail.com
+	- Github: https://github.com/l4wz
